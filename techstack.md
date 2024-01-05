@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 sachajw/awesome-compose is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
@@ -59,11 +60,13 @@ sachajw/awesome-compose is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 sachajw/awesome-compose is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
@@ -121,14 +124,15 @@ sachajw/awesome-compose is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [sachajw/awesome-compose](https://github.com/sachajw/awesome-compose)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|111<br/>Tools used|11/16/23 <br/>Report generated|
+|111<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -725,8 +729,8 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[environs](https://pypi.org/environs)|v7.3.1|04/07/20|FelipeVilella |MIT|N/A|
-|[mysql-connector](https://pypi.org/mysql-connector)|v2.2.9|03/17/20|Anca Iordache |GPL-2.0-with-font-exception|N/A|
+|[environs](https://pypi.org/project/environs)|v7.3.1|04/07/20|FelipeVilella |MIT|N/A|
+|[mysql-connector](https://pypi.org/project/mysql-connector)|v2.2.9|03/17/20|Anca Iordache |GPL-2.0-with-font-exception|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg'/> NuGet (1)
