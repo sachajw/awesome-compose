@@ -1,7 +1,8 @@
 repo_name: sachajw/awesome-compose
 report_id: c269409ac33e32d3a35c6e4e74588884
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-16T10:42:17+00:00'
+timestamp: '2024-01-05T08:39:27+00:00'
 requested_by: juntao
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/sachajw/awesome-compose
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/sachajw/awesome-compose
   detection_source: Repo Metadata
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -36,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/sachajw/awesome-compose
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -46,6 +50,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/sachajw/awesome-compose
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -56,6 +61,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/sachajw/awesome-compose
   detection_source: Repo Metadata
 - name: PHP
   description: A popular general-purpose scripting language that is especially suited
@@ -66,6 +72,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/sachajw/awesome-compose
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -76,6 +83,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/sachajw/awesome-compose
   detection_source: Repo Metadata
 - name: Rust
   description: A safe, concurrent, practical language
@@ -85,6 +93,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png
+  detection_source_url: https://github.com/sachajw/awesome-compose
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -94,7 +103,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
-  detection_source: spring-postgres/backend/src/main/resources/schema.sql
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-java-mysql/backend/src/main/resources/data.sql
+  detection_source: react-java-mysql/backend/src/main/resources/data.sql
   last_updated_by: Guillaume Lours
   last_updated_on: 2020-03-17 15:28:17.000000000 Z
 - name: TypeScript
@@ -106,6 +116,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/sachajw/awesome-compose
   detection_source: Repo Metadata
 - name: ceph
   description: A free-software storage platform
@@ -115,6 +126,7 @@ tools:
   category: Languages & Frameworks
   sub_category: File Storage
   image_url: https://img.stackshare.io/service/1818/cephglyph_copy_400x400.png
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/nginx-flask-mongo/.docker/docker-compose.yaml
   detection_source: nginx-flask-mongo/.docker/docker-compose.yaml
   last_updated_by: Milas Bowman
   last_updated_on: 2022-07-12 09:31:52.000000000 Z
@@ -128,6 +140,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/nginx-aspnet-mysql/backend/aspnetapp.csproj
   detection_source: nginx-aspnet-mysql/backend/aspnetapp.csproj
   last_updated_by: Esteban Solano Granados
   last_updated_on: 2021-04-23 14:06:27.000000000 Z
@@ -142,8 +155,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
-  detection_source_url: aspnet-mssql/app/aspnetapp/aspnetapp.csproj
-  detection_source: nginx-aspnet-mysql/backend/aspnetapp.csproj
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/aspnet-mssql/app/aspnetapp/aspnetapp.csproj
+  detection_source: aspnet-mssql/app/aspnetapp/aspnetapp.csproj
   last_updated_by: Anca Iordache
   last_updated_on: 2020-03-05 17:49:27.000000000 Z
 - name: ASP.NET Core
@@ -157,8 +170,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/11331/asp.net-core.png
-  detection_source_url: aspnet-mssql/app/aspnetapp/aspnetapp.csproj
-  detection_source: nginx-aspnet-mysql/backend/aspnetapp.csproj
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/aspnet-mssql/app/aspnetapp/aspnetapp.csproj
+  detection_source: aspnet-mssql/app/aspnetapp/aspnetapp.csproj
   last_updated_by: Anca Iordache
   last_updated_on: 2020-03-05 17:49:27.000000000 Z
 - name: Angular
@@ -171,7 +184,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Javascript MVC Frameworks
   image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:55:22.000000000 Z
@@ -186,7 +199,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
-  detection_source_url: react-express-mongodb/frontend/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mongodb/frontend/package-lock.json
   detection_source: react-express-mongodb/frontend/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2021-11-22 08:51:11.000000000 Z
@@ -199,6 +212,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/994/4aGjtNQv.png
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/django/app/requirements.txt
   detection_source: django/app/requirements.txt
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-05-16 19:20:20.000000000 Z
@@ -213,8 +227,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: angular/angular/package-lock.json
-  detection_source: react-express-mysql/backend/package.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
+  detection_source: nginx-nodejs-redis/web/package.json
   last_updated_by: Ajeet Singh Raina, Docker Captain, ARM Innovator, RedisInc
   last_updated_on: 2022-03-17 16:33:36.000000000 Z
 - name: FastAPI
@@ -227,6 +241,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/25014/default_f6ff39141b468e832d1bc59fc98a060df604d44d.png
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/fastapi/requirements.txt
   detection_source: fastapi/requirements.txt
   last_updated_by: Valon Januzaj
   last_updated_on: 2021-10-10 21:38:34.000000000 Z
@@ -240,8 +255,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1001/default_6d109315b60108628b7cd3e159b84645c31ef0e2.png
-  detection_source_url: nginx-flask-mysql/backend/requirements.txt
-  detection_source: nginx-wsgi-flask/flask/requirements.txt
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/nginx-flask-mysql/backend/requirements.txt
+  detection_source: flask/app/requirements.txt
   last_updated_by: kouul
   last_updated_on: 2020-03-26 04:41:17.000000000 Z
 - name: Node.js
@@ -253,7 +268,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
-  detection_source: vuejs/vuejs/Dockerfile
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/.docker/docker-compose.yaml
+  detection_source: angular/.docker/docker-compose.yaml
   last_updated_by: Milas Bowman
   last_updated_on: 2022-07-01 17:50:17.000000000 Z
 - name: React
@@ -266,8 +282,8 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: react-express-mongodb/frontend/package-lock.json
-  detection_source: react-rust-postgres/frontend/package.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mongodb/frontend/package-lock.json
+  detection_source: react-express-mongodb/frontend/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:39:31.000000000 Z
 - name: RxJS
@@ -279,7 +295,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Concurrency Frameworks
   image_url: https://img.stackshare.io/service/1796/984368.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: angular/angular/package.json
   last_updated_by: Anca Iordache
   last_updated_on: 2020-03-05 18:28:57.000000000 Z
@@ -293,7 +309,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
-  detection_source: spring-postgres/backend/pom.xml
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-java-mysql/backend/pom.xml
+  detection_source: react-java-mysql/backend/pom.xml
   last_updated_by: Guillaume Lours
   last_updated_on: 2020-03-17 15:28:17.000000000 Z
 - name: Vue.js
@@ -306,7 +323,7 @@ tools:
   category: Libraries
   sub_category: Javascript MVC Frameworks
   image_url: https://img.stackshare.io/service/3837/paeckCWC.png
-  detection_source_url: vuejs/vuejs/yarn.lock
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/vuejs/vuejs/yarn.lock
   detection_source: vuejs/vuejs/package.json
   last_updated_by: Anca Iordache
   last_updated_on: 2020-03-05 18:33:02.000000000 Z
@@ -318,7 +335,8 @@ tools:
   category: Data Stores
   sub_category: SQL Database as a Service
   image_url: https://img.stackshare.io/service/21275/default_078eb0ae2b56280a937ed073a3ba4332291f9ba8.png
-  detection_source: sparkjava-mysql/.docker/docker-compose.yaml
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mysql/.docker/docker-compose.yaml
+  detection_source: react-express-mysql/.docker/docker-compose.yaml
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-07-13 08:35:12.000000000 Z
 - name: MongoDB
@@ -329,7 +347,8 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
-  detection_source: react-express-mongodb/backend/package.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/nginx-flask-mongo/.docker/docker-compose.yaml
+  detection_source: nginx-flask-mongo/.docker/docker-compose.yaml
   last_updated_by: Milas Bowman
   last_updated_on: 2022-07-12 09:31:52.000000000 Z
 - name: Mongoose
@@ -342,7 +361,7 @@ tools:
   category: Data Stores
   sub_category: Object Document Mapper (ODM)
   image_url: https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg
-  detection_source_url: react-express-mongodb/backend/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mongodb/backend/package-lock.json
   detection_source: react-express-mongodb/backend/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2021-10-08 10:20:53.000000000 Z
@@ -354,7 +373,8 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
-  detection_source: sparkjava-mysql/backend/pom.xml
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/nginx-aspnet-mysql/.docker/docker-compose.yaml
+  detection_source: nginx-aspnet-mysql/.docker/docker-compose.yaml
   last_updated_by: Milas Bowman
   last_updated_on: 2022-07-12 12:39:02.000000000 Z
 - name: PostgreSQL
@@ -365,7 +385,8 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
-  detection_source: spring-postgres/backend/pom.xml
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/nginx-golang-postgres/.docker/docker-compose.yaml
+  detection_source: nginx-golang-postgres/.docker/docker-compose.yaml
   last_updated_by: Milas Bowman
   last_updated_on: 2022-07-12 08:08:02.000000000 Z
 - name: Redis
@@ -378,8 +399,8 @@ tools:
   category: Data Stores
   sub_category: In-Memory Databases
   image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
-  detection_source_url: nginx-nodejs-redis/web/package-lock.json
-  detection_source: nginx-nodejs-redis/web/package.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/nginx-nodejs-redis/web/package-lock.json
+  detection_source: flask-redis/.docker/docker-compose.yaml
   last_updated_by: Milas Bowman
   last_updated_on: 2022-07-08 14:48:08.000000000 Z
 - name: Redpanda
@@ -390,6 +411,7 @@ tools:
   category: Data Stores
   sub_category: Stream Processing
   image_url: https://img.stackshare.io/service/21858/default_1cc4dad13c0e2cb03c2e31adb9415f8bb0ed9180.png
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/wasmedge-kafka-mysql/.docker/docker-compose.yml
   detection_source: wasmedge-kafka-mysql/.docker/docker-compose.yml
   last_updated_by: Michael Yuan
   last_updated_on: 2023-01-09 21:30:59.000000000 Z
@@ -402,7 +424,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png
-  detection_source: spring-postgres/backend/Dockerfile
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-java-mysql/backend/Dockerfile
+  detection_source: react-java-mysql/backend/Dockerfile
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-05-16 20:19:01.000000000 Z
 - name: Babel
@@ -415,7 +438,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: vuejs/vuejs/babel.config.js
   last_updated_by: Anca Iordache
   last_updated_on: 2020-03-05 18:33:02.000000000 Z
@@ -429,7 +452,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1725/chai.png
-  detection_source_url: react-express-mysql/backend/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mysql/backend/package-lock.json
   detection_source: react-express-mysql/backend/package.json
   last_updated_by: Anca Iordache
   last_updated_on: 2020-03-05 17:40:44.000000000 Z
@@ -442,6 +465,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/sachajw/awesome-compose
   detection_source: Repo Metadata
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
@@ -452,6 +476,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/vuejs/vuejs/package.json
   detection_source: vuejs/vuejs/package.json
   last_updated_by: Anca Iordache
   last_updated_on: 2020-03-05 18:33:02.000000000 Z
@@ -463,6 +488,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/sachajw/awesome-compose
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -472,6 +498,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/.github/workflows/codeql-analysis.yml
   detection_source: ".github/workflows/codeql-analysis.yml"
   last_updated_by: Serhat Şevki Dinçer
   last_updated_on: 2021-04-14 07:54:36.000000000 Z
@@ -484,7 +511,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/1091/gunicorn.png
-  detection_source_url: nginx-wsgi-flask/flask/requirements.txt
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/nginx-wsgi-flask/flask/requirements.txt
   detection_source: nginx-wsgi-flask/flask/requirements.txt
   last_updated_by: Grant Birkinbine
   last_updated_on: 2021-04-06 09:54:06.000000000 Z
@@ -496,6 +523,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package.json
   detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2021-11-04 16:22:24.000000000 Z
@@ -509,7 +537,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: react-express-mongodb/frontend/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mongodb/frontend/package-lock.json
   detection_source: react-java-mysql/frontend/package.json
   last_updated_by: Anca Iordache
   last_updated_on: 2020-03-05 17:40:44.000000000 Z
@@ -523,7 +551,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Browser Testing
   image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:55:22.000000000 Z
@@ -538,7 +566,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/832/mocha.png
-  detection_source_url: react-express-mysql/backend/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mysql/backend/package-lock.json
   detection_source: react-express-mysql/backend/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:30:13.000000000 Z
@@ -551,7 +579,8 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
-  detection_source: react-nginx/.nginx/nginx.conf
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/nginx-flask-mongo/.docker/docker-compose.yaml
+  detection_source: nginx-flask-mongo/.docker/docker-compose.yaml
   last_updated_by: Milas Bowman
   last_updated_on: 2022-07-12 09:31:52.000000000 Z
 - name: NuGet
@@ -562,6 +591,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/nginx-aspnet-mysql/backend/aspnetapp.csproj
   detection_source: nginx-aspnet-mysql/backend/aspnetapp.csproj
   last_updated_by: Esteban Solano Granados
   last_updated_on: 2021-04-23 14:06:27.000000000 Z
@@ -573,6 +603,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/3502/6b9dfb07681dee602dbdf75d9393f07c_400x400.png
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/apache-php/app/Dockerfile
   detection_source: apache-php/app/Dockerfile
   last_updated_by: Milas Bowman
   last_updated_on: 2022-07-05 13:42:09.000000000 Z
@@ -586,7 +617,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: react-express-mongodb/backend/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mongodb/backend/package-lock.json
   detection_source: react-express-mongodb/backend/package.json
   last_updated_by: Jérémie Drouet
   last_updated_on: 2020-05-12 13:16:03.000000000 Z
@@ -600,6 +631,7 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/prometheus-grafana/prometheus/prometheus.yml
   detection_source: prometheus-grafana/prometheus/prometheus.yml
   last_updated_by: Anca Iordache
   last_updated_on: 2020-03-23 22:27:09.000000000 Z
@@ -611,6 +643,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/nginx-wsgi-flask/flask/requirements.txt
   detection_source: nginx-wsgi-flask/flask/requirements.txt
   last_updated_by: Grant Birkinbine
   last_updated_on: 2021-04-06 09:54:06.000000000 Z
@@ -623,6 +656,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Load Balancer / Reverse Proxy
   image_url: https://img.stackshare.io/service/5126/default_0a34be001ec8247c641508aa468564fb386bc50c.png
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/traefik-golang/.docker/docker-compose.yaml
   detection_source: traefik-golang/.docker/docker-compose.yaml
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-07-12 10:09:52.000000000 Z
@@ -635,6 +669,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/12834/uvicorn.png
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/fastapi/requirements.txt
   detection_source: fastapi/requirements.txt
   last_updated_by: Valon Januzaj
   last_updated_on: 2021-10-10 21:38:34.000000000 Z
@@ -647,6 +682,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/aspnet-mssql/app/aspnetapp.sln
   detection_source: aspnet-mssql/app/aspnetapp.sln
   last_updated_by: Anca Iordache
   last_updated_on: 2020-03-05 17:49:27.000000000 Z
@@ -658,6 +694,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/vuejs/vuejs/yarn.lock
   detection_source: vuejs/vuejs/yarn.lock
   last_updated_by: Anca Iordache
   last_updated_on: 2020-03-05 18:33:02.000000000 Z
@@ -671,8 +708,8 @@ tools:
   category: Monitoring
   sub_category: node.js Application Monitoring
   image_url: https://img.stackshare.io/service/5577/preview.png
-  detection_source_url: react-express-mongodb/backend/package-lock.json
-  detection_source: react-express-mysql/backend/package.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mongodb/backend/package-lock.json
+  detection_source: react-express-mongodb/backend/package.json
   last_updated_by: Jérémie Drouet
   last_updated_on: 2020-05-12 13:16:03.000000000 Z
 - name: npm
@@ -683,6 +720,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/vuejs/vuejs/package.json
   detection_source: vuejs/vuejs/package.json
   last_updated_by: Anca Iordache
   last_updated_on: 2020-03-05 18:33:02.000000000 Z
@@ -695,7 +733,8 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
-  detection_source: spring-postgres/backend/src/main/resources/application.properties
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-java-mysql/backend/src/main/resources/application.properties
+  detection_source: react-java-mysql/backend/src/main/resources/application.properties
   last_updated_by: Anca Iordache
   last_updated_on: 2020-03-05 18:02:53.000000000 Z
 - name: Alpine Linux
@@ -707,6 +746,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-rust-postgres/.docker/docker-compose.yaml
   detection_source: react-rust-postgres/.docker/docker-compose.yaml
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-07-08 15:54:08.000000000 Z
@@ -719,7 +759,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2438/lodash.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: react-express-mongodb/backend/package.json
   last_updated_by: Syed Afzal
   last_updated_on: 2020-05-11 19:40:39.000000000 Z
@@ -730,7 +770,8 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3519/3wgIDj3j_normal.png
-  detection_source: react-express-mongodb/.docker/docker-compose.yaml
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/nginx-flask-mongo/.docker/docker-compose.yaml
+  detection_source: nginx-flask-mongo/.docker/docker-compose.yaml
   last_updated_by: Milas Bowman
   last_updated_on: 2022-07-12 09:31:52.000000000 Z
 - name: Shell
@@ -742,6 +783,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/sachajw/awesome-compose
   detection_source: Repo Metadata
 - name: axios
   description: Promise based HTTP client for the browser and node.js
@@ -753,7 +795,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: react-express-mongodb/frontend/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mongodb/frontend/package-lock.json
   detection_source: react-express-mongodb/frontend/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2021-11-22 08:51:11.000000000 Z
@@ -767,7 +809,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16162/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:55:22.000000000 Z
@@ -781,7 +823,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:55:22.000000000 Z
@@ -795,7 +837,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:55:22.000000000 Z
@@ -809,7 +851,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:55:22.000000000 Z
@@ -823,7 +865,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:55:22.000000000 Z
@@ -837,7 +879,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:55:22.000000000 Z
@@ -851,7 +893,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:55:22.000000000 Z
@@ -865,7 +907,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:55:22.000000000 Z
@@ -879,7 +921,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:55:22.000000000 Z
@@ -893,7 +935,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:55:22.000000000 Z
@@ -907,8 +949,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: react-express-mongodb/frontend/package-lock.json
-  detection_source: react-rust-postgres/frontend/package.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mongodb/frontend/package-lock.json
+  detection_source: react-express-mongodb/frontend/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:39:31.000000000 Z
 - name: "@testing-library/react"
@@ -922,8 +964,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: react-express-mongodb/frontend/package-lock.json
-  detection_source: react-rust-postgres/frontend/package.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mongodb/frontend/package-lock.json
+  detection_source: react-express-mongodb/frontend/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:39:31.000000000 Z
 - name: "@types/jasmine"
@@ -936,7 +978,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2021-11-04 16:22:24.000000000 Z
@@ -950,7 +992,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: react-express-mongodb/frontend/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mongodb/frontend/package-lock.json
   detection_source: react-java-mysql/frontend/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2021-11-22 08:51:11.000000000 Z
@@ -964,8 +1006,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: angular/angular/package-lock.json
-  detection_source: react-java-mysql/frontend/package.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
+  detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2021-11-04 16:22:24.000000000 Z
 - name: "@types/react"
@@ -978,7 +1020,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: react-express-mongodb/frontend/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mongodb/frontend/package-lock.json
   detection_source: react-java-mysql/frontend/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:47:06.000000000 Z
@@ -992,7 +1034,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: react-express-mongodb/frontend/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mongodb/frontend/package-lock.json
   detection_source: react-java-mysql/frontend/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:47:06.000000000 Z
@@ -1006,7 +1048,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16006/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
-  detection_source_url: vuejs/vuejs/yarn.lock
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/vuejs/vuejs/yarn.lock
   detection_source: vuejs/vuejs/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 18:16:12.000000000 Z
@@ -1020,7 +1062,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16035/default_b8a893285867e41b5fc4a7631d8fc2da834d778c.png
-  detection_source_url: vuejs/vuejs/yarn.lock
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/vuejs/vuejs/yarn.lock
   detection_source: vuejs/vuejs/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 18:16:12.000000000 Z
@@ -1034,7 +1076,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15990/default_cbd6c289400672b291755183817e9dd6abe1a612.png
-  detection_source_url: vuejs/vuejs/yarn.lock
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/vuejs/vuejs/yarn.lock
   detection_source: vuejs/vuejs/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 18:16:12.000000000 Z
@@ -1048,7 +1090,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16857/default_627f05e6a07ce29fc9f119417270f38e8aa5c5e2.png
-  detection_source_url: react-express-mongodb/backend/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mongodb/backend/package-lock.json
   detection_source: react-express-mongodb/backend/package.json
   last_updated_by: Syed Afzal
   last_updated_on: 2020-05-11 19:40:39.000000000 Z
@@ -1062,7 +1104,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: react-express-mongodb/backend/package.json
   last_updated_by: Syed Afzal
   last_updated_on: 2020-05-11 19:40:39.000000000 Z
@@ -1076,7 +1118,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16767/default_aa2369d4412b5a2c6812de3c666299e0ccd25ea2.png
-  detection_source_url: react-express-mysql/backend/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mysql/backend/package-lock.json
   detection_source: react-express-mysql/backend/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2020-03-25 14:47:33.000000000 Z
@@ -1090,7 +1132,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16136/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
-  detection_source_url: react-express-mongodb/backend/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mongodb/backend/package-lock.json
   detection_source: react-express-mongodb/backend/package.json
   last_updated_by: Syed Afzal
   last_updated_on: 2020-05-11 19:40:39.000000000 Z
@@ -1104,7 +1146,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: vuejs/vuejs/package.json
   last_updated_by: Vaibhaw
   last_updated_on: 2021-07-06 17:05:58.000000000 Z
@@ -1118,7 +1160,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: react-express-mongodb/backend/package.json
   last_updated_by: Syed Afzal
   last_updated_on: 2020-05-11 19:40:39.000000000 Z
@@ -1132,7 +1174,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: react-express-mysql/backend/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mysql/backend/package-lock.json
   detection_source: react-express-mysql/backend/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2020-03-25 14:47:33.000000000 Z
@@ -1146,7 +1188,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15950/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: vuejs/vuejs/yarn.lock
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/vuejs/vuejs/yarn.lock
   detection_source: vuejs/vuejs/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 18:16:12.000000000 Z
@@ -1160,8 +1202,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: angular/angular/package-lock.json
-  detection_source: react-express-mysql/backend/package.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
+  detection_source: nginx-nodejs-redis/web/package.json
   last_updated_by: Ajeet Singh Raina, Docker Captain, ARM Innovator, RedisInc
   last_updated_on: 2022-03-17 16:33:36.000000000 Z
 - name: http-proxy-middleware
@@ -1174,8 +1216,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16167/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source_url: angular/angular/package-lock.json
-  detection_source: react-rust-postgres/frontend/package.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
+  detection_source: react-express-mysql/frontend/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:30:13.000000000 Z
 - name: jasmine-core
@@ -1188,7 +1230,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2021-11-04 16:22:24.000000000 Z
@@ -1202,7 +1244,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:55:22.000000000 Z
@@ -1216,7 +1258,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15951/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:55:22.000000000 Z
@@ -1230,7 +1272,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:55:22.000000000 Z
@@ -1244,7 +1286,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15999/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:55:22.000000000 Z
@@ -1258,7 +1300,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16491/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
-  detection_source_url: react-express-mysql/backend/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mysql/backend/package-lock.json
   detection_source: react-express-mysql/backend/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2021-10-08 10:04:19.000000000 Z
@@ -1279,7 +1321,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16097/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: react-express-mysql/backend/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mysql/backend/package-lock.json
   detection_source: react-express-mysql/backend/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2020-03-25 14:47:33.000000000 Z
@@ -1293,7 +1335,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16671/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
-  detection_source_url: react-express-mysql/backend/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mysql/backend/package-lock.json
   detection_source: react-express-mysql/backend/package.json
   last_updated_by: Jérémie Drouet
   last_updated_on: 2020-03-24 09:48:45.000000000 Z
@@ -1307,8 +1349,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: react-express-mongodb/frontend/package-lock.json
-  detection_source: react-rust-postgres/frontend/package.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mongodb/frontend/package-lock.json
+  detection_source: react-express-mongodb/frontend/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:39:31.000000000 Z
 - name: react-scripts
@@ -1321,8 +1363,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: react-express-mongodb/frontend/package-lock.json
-  detection_source: react-rust-postgres/frontend/package.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mongodb/frontend/package-lock.json
+  detection_source: react-express-mongodb/frontend/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2022-03-12 17:39:31.000000000 Z
 - name: sass
@@ -1335,7 +1377,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16057/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: react-express-mongodb/frontend/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2021-11-08 10:41:35.000000000 Z
@@ -1349,7 +1391,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2021-11-04 16:22:24.000000000 Z
@@ -1363,7 +1405,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16255/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
-  detection_source_url: react-express-mongodb/backend/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/react-express-mongodb/backend/package-lock.json
   detection_source: react-express-mongodb/backend/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2021-11-04 13:58:45.000000000 Z
@@ -1377,7 +1419,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: vuejs/vuejs/yarn.lock
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/vuejs/vuejs/yarn.lock
   detection_source: vuejs/vuejs/package.json
   last_updated_by: Anca Iordache
   last_updated_on: 2020-03-05 18:33:02.000000000 Z
@@ -1391,7 +1433,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15850/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: vuejs/vuejs/yarn.lock
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/vuejs/vuejs/yarn.lock
   detection_source: vuejs/vuejs/package.json
   last_updated_by: Vaibhaw
   last_updated_on: 2021-07-06 17:05:58.000000000 Z
@@ -1405,13 +1447,13 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
-  detection_source_url: angular/angular/package-lock.json
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/angular/angular/package-lock.json
   detection_source: angular/angular/package.json
   last_updated_by: Guillaume Lours
   last_updated_on: 2021-11-04 16:22:24.000000000 Z
 - name: environs
   description: Simplified environment variable parsing
-  package_url: https://pypi.org/environs
+  package_url: https://pypi.org/project/environs
   version: 7.3.1
   license: MIT
   open_source: true
@@ -1419,13 +1461,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20429/default_7defdc8d75243dda839b1aed62f8631f461dead1.png
-  detection_source_url: django/app/requirements.txt
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/django/app/requirements.txt
   detection_source: django/app/requirements.txt
   last_updated_by: FelipeVilella
   last_updated_on: 2020-04-07 12:00:55.000000000 Z
 - name: mysql-connector
   description: MySQL driver written in Python
-  package_url: https://pypi.org/mysql-connector
+  package_url: https://pypi.org/project/mysql-connector
   version: 2.2.9
   license: GPL-2.0-with-font-exception
   open_source: true
@@ -1433,7 +1475,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20800/default_3585b2f9f07039da8bfcc35eab67d81325922568.png
-  detection_source_url: nginx-flask-mysql/backend/requirements.txt
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/nginx-flask-mysql/backend/requirements.txt
   detection_source: nginx-flask-mysql/backend/requirements.txt
   last_updated_by: Anca Iordache
   last_updated_on: 2020-03-17 20:55:32.000000000 Z
@@ -1447,7 +1489,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13205/default_18a92235046d8c8db548cd22b87cf5792dc31759.png
-  detection_source_url: nginx-aspnet-mysql/backend/aspnetapp.csproj
+  detection_source_url: https://github.com/sachajw/awesome-compose/blob/master/nginx-aspnet-mysql/backend/aspnetapp.csproj
   detection_source: nginx-aspnet-mysql/backend/aspnetapp.csproj
   last_updated_by: Esteban Solano Granados
   last_updated_on: 2022-03-21 17:43:05.000000000 Z
